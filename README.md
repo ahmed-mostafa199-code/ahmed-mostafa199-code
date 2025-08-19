@@ -1,14 +1,14 @@
-<!-- مقدمة متحركة -->
+<!-- عنوان أنيميشن بخلفية -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Mostafa;A+Passionate+Web+Developer;From+Egypt+%F0%9F%87%AA%F0%9F%87%AC;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=500&color=FFFFFF&background=F75C7E&center=true&vCenter=true&multiline=true&width=450&height=80&lines=هاي+%D8%8C+%D8%A3%D9%86%D8%A7+%D8%A3%D8%AD%D9%85%D8%AF+%F0%9F%91%8B" alt="Hi I'm Ahmed" />
 </p>
 
-<!-- صورة جذابة -->
+<!-- صورة تحت الكلمة -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
 </p>
 
-<!-- لغات البرمجة والأدوات -->
+<!-- أدوات البرمجة -->
 <h2 align="center">🚀 Languages & Tools</h2>
 
 <p align="center">
