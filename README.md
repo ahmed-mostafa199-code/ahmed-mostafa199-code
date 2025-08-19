@@ -1,6 +1,6 @@
-<!-- مقدمة أنيميشن فخم -->
+<!-- أنيميشن فخم وقوي -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=3000&pause=500&color=0FF4C6&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Ahmed+%F0%9F%91%8B" alt="Hi I'm Ahmed Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&weight=700&size=45&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Ahmed+%F0%9F%91%8B" alt="Strong Hi I'm Ahmed typing animation" />
 </p>
 
 <!-- عنوان فرعي -->
@@ -37,7 +37,7 @@
 
 ---
 
-<!-- إحصائيات GitHub -->
+<!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 ---
 
-<!-- معلومات التواصل -->
+<!-- تواصل -->
 <h2 align="center">📫 How to reach me</h2>
 
 <p align="center">
